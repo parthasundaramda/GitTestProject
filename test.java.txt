@@ -1,5 +1,4 @@
 public class Main {
   int x = 10;
   String a = "orange";
-  String b = "bombay";
 }
