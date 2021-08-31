@@ -1,3 +1,4 @@
 public class Main {
   int x = 6;
+  String a = "apple";
 }
